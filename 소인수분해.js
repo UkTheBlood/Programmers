@@ -11,5 +11,3 @@ function solution(n) {
 
   return [...new Set(result)];
 }
-
-console.log(solution(12))
